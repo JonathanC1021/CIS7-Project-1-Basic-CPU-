@@ -10,12 +10,12 @@
 
 **************************************
 # Table of Contents
-- Documentation from Jonathan Carreon(Encryption)
-- Documentation from Guadalupe Chavez(Decryption)
+- Programming Approaches
+- Algorithm Integrated
+- Limitations of Program
+- Application of Course Concepts
 
 **************************************
-
-- Jonathan Carreon(Encryption)
 
 - Programming Approaches
 
