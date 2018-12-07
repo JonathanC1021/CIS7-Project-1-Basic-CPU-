@@ -59,6 +59,7 @@ string decryptedText(string cipher_text, string key)
 
 // Use 'WEWILLTRY' as Plaintext
 // Use 'WOW' as keyword
+// Ciphertext should output with SSSEZHPFU
 int main()
 {
   string text, keyWord;
