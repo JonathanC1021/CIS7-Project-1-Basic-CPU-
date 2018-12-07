@@ -7,7 +7,7 @@
 using namespace std;
 
 // This function is used to generate the key in a cycle way
-// until its length is not equal to the plain text.
+// until its length is not equal to the plain text. (Jonathan)
 string generateKey(string text, string key)
 {
   int v = text.size();
@@ -24,7 +24,7 @@ string generateKey(string text, string key)
 }
 
 // This function is used to return the generated encrypted
-// plain text with the help of the key.
+// plain text with the help of the key. (Jonathan)
 string cipherText(string text, string key)
 {
   string cipher_text;
@@ -41,7 +41,7 @@ string cipherText(string text, string key)
 }
 
 // This function will decrypt the encrypted text and return 
-// the plain text.
+// the plain text. (Guadalupe)
 string decryptedText(string cipher_text, string key)
 {
   string decrypt_text;
@@ -60,6 +60,7 @@ string decryptedText(string cipher_text, string key)
 // Use 'WEWILLTRY' as Plaintext
 // Use 'WOW' as keyword
 // Ciphertext should output with SSSEZHPFU
+// (Jonathan and Guadalupe)
 int main()
 {
   string text, keyWord;
