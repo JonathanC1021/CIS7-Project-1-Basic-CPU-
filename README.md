@@ -43,3 +43,7 @@
 
 // There are formulas in each function so that there is a conversion to numbers from 0 - 25 and conversion
    to alphabets.
+   
+// The cipher's modular arithmatic for encryption is: Ei = (Pi + Ki) mod 26  P = Plain text, K = Key
+
+// The cipher's modular arithmatic for decryption is: Di = (Ei - Ki + 26) mod 26
