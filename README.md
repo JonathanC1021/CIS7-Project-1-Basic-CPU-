@@ -38,4 +38,8 @@
 
 - Application of Course Concepts
 
-// 
+// 'vector.pushback' is implemented into each function so that it can append the given element value to
+   the end of the container.
+
+// There are formulas in each function so that there is a conversion to numbers from 0 - 25 and conversion
+   to alphabets.
