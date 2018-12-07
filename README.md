@@ -26,6 +26,14 @@
 
 - Algorithm Integrated
 
+// The program implements the Vigenere cipher to encrypt and decrypt the user's input of plain text.
+   For the program to encrypt and decrypt the plain text, it requires a key that will repeat itself
+   at the length of the plain text. With this key (key word), it allows the program to go from
+   encryption to decryption. The encryption of the plain text/original text is from using the Vigenere 
+   table.
+   
+ - Limitations of Program
+ 
 // 
 
 - Application of Course Concepts
