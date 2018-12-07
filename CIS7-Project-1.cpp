@@ -1,5 +1,5 @@
 // Jonathan Carreon (Encryption)
-// Guadalupe Chavez (Decrption)
+// Guadalupe Chavez (Decryption)
 // CIS7
 // Project: Case Project 3 
 // Team Name: Basic CPU
