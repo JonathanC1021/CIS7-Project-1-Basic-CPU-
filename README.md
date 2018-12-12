@@ -34,7 +34,9 @@
    
  - Limitations of Program
  
-// 
+// For Plain text: Input of spaces causes the program to not return the ciphertext and to not run properly.
+
+// For Keyword: Lowercase letters, 
 
 - Application of Course Concepts
 
@@ -47,3 +49,6 @@
 // The cipher's modular arithmatic for encryption is: Ei = (Pi + Ki) mod 26,  P = Plain text, K = Key
 
 // The cipher's modular arithmatic for decryption is: Di = (Ei - Ki + 26) mod 26
+
+// Modular programming arithmetic is used to convert the number values to letters and give a specific shift
+   in the alphabet for the cipher text and decrypted text.
