@@ -17,14 +17,14 @@
 
 **************************************
 
-- Programming Approaches
+- Programming Approaches (Jonathan)
 
 // When starting on the programming(Encryption) for case-project 3, I evaluated other types of
    ciphers such as Caesar and Linear Shift on encryption for comparisons. During my evaluation,
    I found out that the Caesar cipher is similar to the Vigenere cipher in a way that it involves
    its 26 possible ciphers.
 
-- Algorithm Integrated
+- Algorithm Integrated (Jonathan)
 
 // The program implements the Vigenere cipher to encrypt and decrypt the user's input of plain text.
    For the program to encrypt and decrypt the plain text, it requires a key that will repeat itself
@@ -32,13 +32,17 @@
    encryption to decryption. The encryption of the plain text/original text is from using the Vigenere 
    table.
    
- - Limitations of Program
+ - Limitations of Program (Guadalupe Chavez)
  
 // For Plain text: Input of spaces causes the program to not return the ciphertext and to not run properly.
 
-// For Keyword: Lowercase letters, 
+// For Keyword: Lowercase letters, spaces, numbers, special characters cause an issue with decryption.
 
-- Application of Course Concepts
+// For ciphertext: Lowercase letters, numbers, and special characters do not encrypt.
+
+// For Decrypted text: Lowercase letters, special characters, and numbers do not decrypt.
+
+- Application of Course Concepts (Jonathan and Guadalupe)
 
 // 'vector.pushback' is implemented into each function so that it can append the given element value to
    the end of the container.
